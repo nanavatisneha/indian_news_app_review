@@ -1,0 +1,5 @@
+This repo contains three modules
+  1. the scaprer using node js build borrowed from the fundoolano/google-play-scraper: https://github.com/facundoolano/google-play-scraper#reviews
+  2. the scraper specifically for iteratively scraping all the pages of an app review with username, user image, rating, title and content for four news applications. the scraper also takes into account the orginal relaxed JSON format and reformats that into standardised JSON. 
+  3. the data files: both in JSON and in CSV format.
+  
